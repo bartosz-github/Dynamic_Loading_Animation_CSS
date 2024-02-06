@@ -30,6 +30,10 @@ body {
     animation: load 0.8s ease infinite;
 }
 
+.loader .loading.one {
+    animation-delay: 0.3s;
+}
+
 @keyframes load {
     0% {
         width: 30px;

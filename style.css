@@ -39,9 +39,12 @@ body {
 .loader .loading.three {
     animation-delay: 0.5s;
 }
+/* doesnt work that well*/
+/*
 .loader .loading.four {
-    animation-delay: 0.6s;
+    animation-delay: 1.25s;
 }
+*/
 
 
 @keyframes load {
@@ -53,4 +56,10 @@ body {
         width: 20px;
         height: 20px;
     }
+/* doesnt work that well*/
+/*    75% {
+        width: 17px;
+        height: 17px;
+    }
+*/
 }

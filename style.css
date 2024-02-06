@@ -15,3 +15,17 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+
+.wrapper .loader {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.loader .loading {
+    background: #fff;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+

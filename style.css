@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: slategray;
+    background-color: darkslategray
 }
 
 .wrapper {
@@ -22,7 +22,7 @@ body {
 }
 
 .loader .loading {
-    background: #fff;
+    background: greenyellow;
     width: 30px;
     height: 30px;
     border-radius: 50px;
